@@ -4,7 +4,9 @@
 
 <?php 
 echo "Hello World!<br>"; 
-echo "php project"
+echo "php project";
+  
+echo phpinfo();
 ?> 
 
 </body> 
